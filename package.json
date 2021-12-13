@@ -4,7 +4,8 @@
   "description": "Learn how the singleton concept works",
   "main": "index.js",
   "scripts": {
-    "test": "asp"
+    "test": "asp",
+    "build": "asb"
   },
   "author": "Uma Victor",
   "license": "ISC",
